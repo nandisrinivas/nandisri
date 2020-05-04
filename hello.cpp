@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 int main()
 {
-	cout<<"hello";
+	cout<<"hello world";
+	cout<<"hello git";
 	return 0;
 }
