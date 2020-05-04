@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 int main()
 {
-	cout<<"git";
+	cout<<"git"<<endl<<"git_test"<<endl;
 	return 0;
 }
